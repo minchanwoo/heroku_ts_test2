@@ -1,0 +1,8 @@
+dist
+LICENSE
+src
+node_modules
+package-lock.json
+tsconfig.json
+.babelrc
+tsconfig.json
